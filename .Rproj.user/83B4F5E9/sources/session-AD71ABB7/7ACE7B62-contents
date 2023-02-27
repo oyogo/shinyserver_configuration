@@ -1,8 +1,3 @@
----
-title: "Deploying shiny applications throught shiny server"
-format: html
-editor: visual
----
 
 There are quite a number of ways of deploying your Rshiny applications namely:\
 * Shinyproxy   
